@@ -1,0 +1,1 @@
+C:\Netprojects\GitignoreSeconExample\MyFirstMauiApplicationSIn.sin\MyFirstMauiApplication\MyFirstMauiApplication.csproj;x64
